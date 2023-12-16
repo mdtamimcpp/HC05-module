@@ -15,7 +15,7 @@
 * 1X BC547 Transistor;
 * 1X DC Relay (9V);
 * 1X 9V Battery;
-* [Android App](https://github.com/mdtamimcpp/HC05-apk) interfacing with HC-05;<!-- if need the apk, plz contact -->
+* [Android App](https://github.com/thisistamim/HC05-apk) interfacing with HC-05;<!-- if need the apk, plz contact -->
 * Extra (switch, wires, soldering iron, AC load etc.)
 
 ## Circuit Schematics
